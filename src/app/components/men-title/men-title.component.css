@@ -8,8 +8,12 @@
     font-family: 'segoe UI';
     display: flex;
     justify-content: center;
+    background-image: url(http://www.monsterbrain.com.br/wp-content/uploads/2017/12/MarvelComics-GuiaDeLeitura.jpg);
+    border: 2px solid rgb(244, 237, 237);
+    
 }
 .container__menu-title > hr{
     margin-top: 20px;
     margin-bottom: 5px;
+    
 }

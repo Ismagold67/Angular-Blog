@@ -12,6 +12,7 @@
     min-width: 200px;
     height: 145px;
     margin-right: 20px;
+    border: 2px solid wheat;
 }
 
 .small-card__title{

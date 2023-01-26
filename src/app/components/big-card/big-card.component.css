@@ -24,4 +24,5 @@
 .big-card__photo > img{
     width: 100%;
     min-width: 400px;
+    border: 2px solid wheat;
 }
