@@ -18,9 +18,13 @@
     height: 300px;
 }
 .content__description{
-    margin-top: 15px;
+    border: solid;
+    padding: 20px;
+    margin: 15px 150px 0px 150px;
+    border-radius: 10px;
 }
 .content__description p{
-    color: rgb(128, 128, 128);
+    color: rgb(239, 232, 232);
     margin-top: 20px;
+    font-size: 30px;
 }

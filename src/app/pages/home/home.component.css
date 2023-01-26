@@ -5,3 +5,6 @@
     flex-direction: row; /*deixar os carda do lado, em vez de ficar em baixo*/
     justify-content: center;
 }
+.mcu_topics{
+    margin: 0 458px 0 475px ;
+}
