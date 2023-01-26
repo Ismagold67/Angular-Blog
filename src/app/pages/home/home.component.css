@@ -5,9 +5,3 @@
     flex-direction: row; /*deixar os carda do lado, em vez de ficar em baixo*/
     justify-content: center;
 }
-
-header{
-    display: flex;
-    justify-content: center;
-    margin-top: 15px;
-}
