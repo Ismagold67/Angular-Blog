@@ -23,3 +23,14 @@
 .container__small-card__separator{
     margin-top: 10px
 }
+@media screen and (max-width:600px){
+    .small-card__photo > img{
+     width: 4px;
+     height: 18vw;
+     margin: auto;
+    }
+    .small-card__title{
+        font-size: 8px;
+        
+       }
+ }

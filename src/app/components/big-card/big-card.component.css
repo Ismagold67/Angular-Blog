@@ -26,3 +26,11 @@
     min-width: 400px;
     border: 2px solid wheat;
 }
+@media screen and (max-width:600px){
+    .big-card__photo > img{
+     width: 80vw;;
+    }
+    .container__menu-title > hr{
+        width: 138.9vw;;
+       }
+ }

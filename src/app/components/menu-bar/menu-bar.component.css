@@ -7,3 +7,9 @@
     margin-left: 20px;
     list-style: none;
 }
+@media screen and (max-width:600px){
+    .container__menu-bar > ul{
+     width: 160px;
+    }
+ }
+
